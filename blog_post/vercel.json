@@ -11,3 +11,7 @@
         }
     ]
 }
+
+{
+    "rewrites": [{ "source": "/(.*)", "destination": "/base.html" }]
+}
